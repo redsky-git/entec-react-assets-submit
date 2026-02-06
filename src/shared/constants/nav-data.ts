@@ -148,7 +148,7 @@ export const NAV_DATA: any = [
 	},
 	{
 		title: 'Documentation',
-		url: 'http://redsky0212.dothome.co.kr/entec/react_assets/guide/',
+		url: 'http://example.com/guide/',
 		icon: BookOpen,
 		isActive: false,
 		items: [],

@@ -38,7 +38,7 @@ const MainIndex: IComponent<IMainIndexProps> = () => {
 						size="lg"
 						variant="outline"
 						className="h-11 px-6 text-sm font-medium"
-						onClick={() => (location.href = 'http://redsky0212.dothome.co.kr/entec/react_assets/guide/')}
+						onClick={() => (location.href = 'http://example.com/guide/')}
 					>
 						Documents
 					</Button>
