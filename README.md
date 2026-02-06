@@ -10,9 +10,7 @@
 
 ### 주요 가이드
 
-- **[프론트엔드 플랫폼 구성 가이드](./FRONTEND_PLATFORM_GUIDE.md)** - 프로젝트 전체 구조 및 개발 가이드
-- **[도메인 구현 예제](./docs/DOMAIN_EXAMPLES.md)** - 실무 적용 가능한 상세 구현 예제
-- **[공식 온라인 가이드](http://redsky0212.dothome.co.kr/entec/react_assets/guide/)** - ENTEC React Assets 공식 문서
+- **[프론트엔드 가이드](./FRONTEND_PLATFORM_GUIDE.md)** - ENTEC React Assets 공식 문서
 
 ### 빠른 시작
 
@@ -103,7 +101,7 @@ src/
 
 ## 📖 개발 가이드
 
-자세한 개발 가이드는 [프론트엔드 플랫폼 구성 가이드](./FRONTEND_PLATFORM_GUIDE.md)를 참조하세요.
+자세한 개발 가이드는 [프론트엔드 가이드](./FRONTEND_PLATFORM_GUIDE.md)를 참조하세요.
 
 ### 신규 도메인 추가
 
@@ -139,30 +137,10 @@ npm run lint
 npm run lint:fix
 ```
 
-## 📦 React + TypeScript + Vite
-
-This project uses:
-
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## 🤝 기여 가이드
-
-프로젝트에 기여하시려면:
-
-1. 가이드 문서를 숙지해주세요
-2. 코딩 컨벤션을 준수해주세요
-3. 커밋 메시지는 명확하게 작성해주세요
-4. Pull Request 전에 린트 검사를 실행해주세요
-
-## 📞 문의 및 지원
-
-- **공식 가이드**: http://redsky0212.dothome.co.kr/entec/react_assets/guide/
-- **프로젝트 가이드**: [FRONTEND_PLATFORM_GUIDE.md](./FRONTEND_PLATFORM_GUIDE.md)
-- **GitHub Issues**: 프로젝트 저장소의 Issues 탭 활용
 
 ---
 
 <div align="center">
   <p><strong>ENTEC React Assets</strong></p>
-  <p>금융권 기업뱅킹 프론트엔드 플랫폼</p>
+  <p>프론트엔드 코드 Assets</p>
 </div>
